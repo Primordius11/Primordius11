@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Primordius11
-- 👀 I’m interested in tiddies.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me ...please don't try.
 
 <!---
